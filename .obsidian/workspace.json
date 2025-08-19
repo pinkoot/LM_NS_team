@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "8cfa4b852898abe2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8481316079625f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92c7242ef8e1d31f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "training_write-ups/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45f111e31e158f22",
+    "type": "split",
+    "children": [
+      {
+        "id": "4314f9a7c6c1badf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e8832027e532e82",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "4252c5d384bd6c41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "302a043d96eebb9c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "579a20623a7a7396",
+    "type": "split",
+    "children": [
+      {
+        "id": "b869a0a5427a1b20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "999299ed11e6c16d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "training_write-ups/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для README"
+            }
+          },
+          {
+            "id": "e8ced9f56501949c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "training_write-ups/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из README"
+            }
+          },
+          {
+            "id": "b92b07b93a18a15e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "83d5010397dfcf85",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "training_write-ups/README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "92c7242ef8e1d31f",
+  "lastOpenFiles": [
+    "competition_write-ups/README.md",
+    "ctf/README.md",
+    "cyber_security_project/README.md",
+    "pentest/README.md",
+    "training_write-ups/README.md",
+    "utils/OSINT/sherlock-master/docs/CODE_OF_CONDUCT.md",
+    "utils/OSINT/README.md"
+  ]
+}
